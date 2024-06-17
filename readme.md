@@ -4,7 +4,7 @@
 The recommendation system is designed to provide personalized content recommendations to users based on their preferences and behavior. It uses a dataset consisting of three main tables: `users`, `contents`, and `views`. 
 
 ## Dataset Description
-Sure, here's a table summarizing the dataset description:
+Here's a table summarizing the dataset description:
 
 | DataFrame     | Column Name      | Description                                       |
 |----------------|------------------|---------------------------------------------------|
