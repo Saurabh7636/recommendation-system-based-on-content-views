@@ -25,7 +25,7 @@ Here's a table summarizing the dataset description:
 |                      | num_of_views      | Number of times the content was viewed by the user.        |
 | User Votes (`votes`) | portal_user_id    | Identifier of the user who voted.                          |
 |                      | global_id         | Identifier of the content that was voted on.               |
-|                      | vote_type         | Type of vote given to the content (like, dislike, etc.).   |
+|                      | vote         | Value is set to 0 if a content is downvoted and set to 1 if a content is upvotes   |
 
 > This table provides a concise overview of the dataset, including the columns present in each table (`users`, `contents`, `views`, and `votes`) and a brief description of each column.
 
